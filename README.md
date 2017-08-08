@@ -7,6 +7,7 @@ This repository contains codes and resources used in the machine learning worksh
 ```
 git clone https://github.com/RITct/Intro-to-Machine-Learning-Workshop.git
 ```
+## Hack on ..
 There are ipynb notebooks with code and explanation. </br> Open the .ipynb file notebook in desktop browser in github.</br>
 Or install jupyter notebook.
 ```
