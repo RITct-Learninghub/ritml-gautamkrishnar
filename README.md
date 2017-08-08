@@ -21,3 +21,4 @@ This window will pop up
 </br></br>
 ![jupyter notebook](jupyter.png?raw=true "jupyter notebook")
 </br></br>
+Open the .ipynb file to view it.
