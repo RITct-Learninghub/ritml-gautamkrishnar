@@ -1,7 +1,10 @@
 # Intro-to-Machine-Learning-Workshop
-This repository contains codes and resources used in the machine learning workshop conducted in RIT as part of [tinkerhub-RIT](https://www.facebook.com/TinkerHubRIT/?ref=bookmarks).
+This repository contains codes,resources and tasks for the machine learning workshop conducted in RIT as part of [tinkerhub-RIT](https://www.facebook.com/TinkerHubRIT/?ref=bookmarks).
 </br></br>
 ![ml workshop](mlworkshop.jpg?raw=true "mlworkshop")
+## You need
+* [python](https://www.python.org)
+* [sklearn](http://scikit-learn.org/stable/)
 ## Get the code
 
 ```
@@ -32,6 +35,12 @@ This window will pop up
 ![jupyter notebook](jupyter.png?raw=true "jupyter notebook")
 </br></br>
 Open the .ipynb file to view it.
+</br></br>
+Run the python codes using
+
+```
+python filename.py
+``` 
 
 ## Tasks
 </br>
