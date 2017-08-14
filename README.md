@@ -14,8 +14,9 @@ Machine Learning is making sense of "DATA"!
 Check out these blog posts toget a better intuition on machine learning
 * [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [Analytics Vidhya:Machine Learning basics for a newbie](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
-</br>
+
 ## Hack on ..
+
 There are ipynb notebooks with code and explanation. </br> Open the .ipynb file notebook in desktop browser in github.</br>
 Or install jupyter notebook.
 ```
