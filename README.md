@@ -11,7 +11,7 @@ This repository contains codes,resources and tasks for the machine learning work
 git clone https://github.com/RITct/Intro-to-Machine-Learning-Workshop.git
 ```
 </br></br>
-## introduction to machine learning
+## Introduction to machine learning
 Machine Learning is making sense of "DATA"!
 </br>
 Check out these blog posts toget a better intuition on machine learning
