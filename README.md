@@ -47,7 +47,9 @@ python filename.py
 In the first session of ml workshop we build a sentiment analyser using Naive bayes algorithm.
 </br>
 Here is a brief intro to naive bayes classifier.
-[Check out](https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/) to know how our classifier recognised positive and negative sentences !
+
+[Check out](https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/) 
+to know how our classifier recognised positive and negative sentences !
 </br>
 
 [Check out](http://scikit-learn.org/stable/modules/naive_bayes.html) the sklearn naive bayes documentation. We used Gaussian Naive bayes algorithm for our sentiment analyser.
