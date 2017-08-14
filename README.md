@@ -1,3 +1,5 @@
+## Are you new here ?
+Check out the [intro](https://github.com/RITct/Intro-to-Machine-Learning-Workshop/edit/master/README.md#L22) !
 ## Tasks
 </br>
 In the first session of ml workshop we build a sentiment analyser using Naive bayes algorithm.
